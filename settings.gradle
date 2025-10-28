@@ -1,2 +1,2 @@
-rootProject.name = "NoiseDetector"
+rootProject.name = "sound"
 include ':app'
